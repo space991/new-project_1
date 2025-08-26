@@ -12,7 +12,7 @@ install_env:
   script:
     - echo "test 1"
 
-run_tests:
+run_test:
   stage: test
   script:
     - echo "test 2"
